@@ -3,7 +3,7 @@
 This repository contains three beginner-level Python projects created as part of my internship at CognoRise InfoTech. Each project demonstrates fundamental programming concepts and offers a fun way to interact with Python.
 
 ## Projects Overview
-### 1. Simple Calculator
+### 1. Simple Calculator🖥
 A basic calculator that performs fundamental arithmetic operations:
 
 Features: Addition, subtraction, multiplication,division and modulus.
